@@ -1,0 +1,25 @@
+.carDiv {
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.card {
+  background: rgb(80, 112, 201);
+  color: azure;
+  height: 33.5rem;
+  width: 19rem;
+  padding: 5px;
+  overflow: hidden;
+}
+.cardText {
+  height: auto;
+}
+img {
+  height: 14rem;
+  width: 19rem;
+  object-fit: cover;
+}
+.cardDiv {
+  margin-bottom: 0px;
+}
